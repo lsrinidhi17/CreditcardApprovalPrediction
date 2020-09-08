@@ -31,6 +31,6 @@ Total Features:  17
 3. Strictly for this data, heuristically the credit history may not be the best deciding factor for approving a loan
 
 ### Presentation
-[Google Slides]
+[Google Slides](Credit Card Loan Approval.pptx)
 [Technical Document](https://docs.google.com/document/d/1M8OvXMnrB1tCZMKsErnXlJ-XvoTp01hxCXd3qEbHKCw/edit?usp=sharing)
 
