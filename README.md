@@ -1,4 +1,4 @@
-## CreditcardApprovalPrediction
+## Credit Card Approval Prediction
 
 ### Need for Credit card Approval Prediction
 
